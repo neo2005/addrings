@@ -1,4 +1,4 @@
-import fs from 'node:fs'
+const fs = require('fs');
 
 this.readTokensRing('modules/add-token-rings/rings');
 
@@ -6,7 +6,6 @@ Hooks.on("init", function() {
   
   console.log("This code runs once the Foundry VTT software begins its initialization workflow.");
 });
-
 
 
 function readTokensRing(path){
