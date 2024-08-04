@@ -6,12 +6,15 @@
     "minimum": "12",
     "verified": "12"
   },
+  "url": "https://github.com/neo2005/addrings",
+  "manifest": "https://raw.githubusercontent.com/neo2005/addrings/main/module.json",
+  "download": "https://github.com/neo2005/addrings/archive/refs/tags/1.0.0.zip",
   "scripts": [
     "index.js"
   ],
   "authors": [
     {
-      "name": "Author 1",
+      "name": "Zhilan",
       "flags": {}
     }
   ]
