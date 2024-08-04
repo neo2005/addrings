@@ -1,14 +1,17 @@
 {
-  "id": "addrings",
-  "title": "addRings",
+  "id": "add-token-rings",
+  "title": "Add Token Rings",
   "version": "1.0.0",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
   },
+  "scripts": [
+    "index.js"
+  ],
   "authors": [
     {
-      "name": "Author 1",
+      "name": "Zhilan",
       "flags": {}
     }
   ]
