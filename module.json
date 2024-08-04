@@ -1,0 +1,15 @@
+{
+  "id": "addrings",
+  "title": "addRings",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "authors": [
+    {
+      "name": "Author 1",
+      "flags": {}
+    }
+  ]
+}
