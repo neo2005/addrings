@@ -1,6 +1,6 @@
 {
-  "id": "add-token-rings",
-  "title": "Add Token Rings",
+  "id": "addrings",
+  "title": "addRings",
   "version": "1.0.0",
   "compatibility": {
     "minimum": "12",
@@ -11,7 +11,7 @@
   ],
   "authors": [
     {
-      "name": "Zhilan",
+      "name": "Author 1",
       "flags": {}
     }
   ]
