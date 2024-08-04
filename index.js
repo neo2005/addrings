@@ -1,4 +1,4 @@
-
+import fs from 'fs';
 
 this.readTokensRing('modules/add-token-rings/rings');
 
