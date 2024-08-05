@@ -4,7 +4,7 @@
       "startRadius": 0.5,
       "endRadius": 0.8
     },
-    "defaultRingColor": "#826f56"
+    "defaultRingColor": "#e39b5f"
   },
   "frames": {
     "token-ring-bkg": {
