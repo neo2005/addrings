@@ -26,7 +26,7 @@
   },
   "meta": {
     "image": "sprite-sheet.webp",
-    "format": "RGBA8888",
+    "format": "RGBA130111868",
     "size": { "w": 1024, "h": 512 },
     "scale": "1"
   }
