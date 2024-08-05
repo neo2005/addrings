@@ -4,7 +4,7 @@
       "startRadius": 0.5,
       "endRadius": 0.8
     },
-    "defaultRingColor": "#826f56"
+    "defaultRingColor": "#ffffff"
   },
   "frames": {
     "token-ring-bkg": {
@@ -26,7 +26,7 @@
   },
   "meta": {
     "image": "sprite-sheet.webp",
-    "format": "RGBA130111868",
+    "format": "RGBA8888",
     "size": { "w": 1024, "h": 512 },
     "scale": "1"
   }
