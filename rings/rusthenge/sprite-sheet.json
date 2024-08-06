@@ -3,7 +3,8 @@
     "defaultColorBand": {
       "startRadius": 0.5,
       "endRadius": 0.8
-    }
+    },
+    "defaultRingColor": "#ffffff00"
   },
   "frames": {
     "token-ring-bkg": {
