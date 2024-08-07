@@ -1,8 +1,8 @@
 {
   "config": {
     "defaultColorBand": {
-      "startRadius": 0.5,
-      "endRadius": 0.8
+      "startRadius": 0.3,
+      "endRadius": 0.6
     }
   },
   "frames": {
@@ -20,7 +20,8 @@
       "trimmed": false,
       "spriteSourceSize": { "x": 0, "y": 0, "w": 512, "h": 512 },
       "sourceSize": { "w": 512, "h": 512 },
-      "anchor": { "x": 0.5, "y": 0.5 }
+      "anchor": { "x": 0.5, "y": 0.5 },
+      "scale": "1"
     }
   },
   "meta": {
