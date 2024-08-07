@@ -1,10 +1,5 @@
 {
-  "config": {
-    "defaultColorBand": {
-      "startRadius": 0.5,
-      "endRadius": 0.7
-    }
-  },
+  
   "frames": {
     "token-ring-bkg": {
       "frame": { "x": 0, "y": 0, "w": 512, "h": 512 },
