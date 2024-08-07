@@ -2,7 +2,7 @@
   "config": {
     "defaultColorBand": {
       "startRadius": 0.5,
-      "endRadius": 0.8
+      "endRadius": 0.7
     }
   },
   "frames": {
