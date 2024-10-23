@@ -1,14 +1,14 @@
 {
   "id": "addrings",
   "title": "addRings",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
   },
   "url": "https://github.com/neo2005/addrings",
   "manifest": "https://raw.githubusercontent.com/neo2005/addrings/main/module.json",
-  "download": "https://github.com/neo2005/addrings/archive/refs/tags/1.0.3.zip",
+  "download": "https://github.com/neo2005/addrings/archive/refs/tags/1.0.4.zip",
   "scripts": [
     "index.js"
   ],
