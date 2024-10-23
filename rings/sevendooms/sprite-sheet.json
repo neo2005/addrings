@@ -3,7 +3,8 @@
     "defaultColorBand": {
       "startRadius": 0.3,
       "endRadius": 0.6
-    }
+    },
+    "defaultRingColor": "#f9aa60"
   },
   "frames": {
     "token-ring-gargantuan-bkg": {
